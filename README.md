@@ -23,12 +23,12 @@ Research sources for NLP in Finance
 - [Beyond negative and positive: Exploring the effects of emotions in social media during the stock market crash](https://www.sciencedirect.com/science/article/abs/pii/S0306457319309057) (Information Processing and Management 2020)
 - [Issues and Perspectives from 10,000 Annotated Financial Social Media Data](https://www.aclweb.org/anthology/2020.lrec-1.749/) (LREC 2020) - Fin-Some (per request)
 - [NTUSD-Fin: A Market Sentiment Dictionary for Financial Social Media Data Applications](http://nlg.csie.ntu.edu.tw/~hhhuang/docs/fnp2018.pdf) (Proceedings of the 1st Financial Narrative Processing Workshop (FNP 2018))
-- [Learning Stock Market Sentiment Lexicon and Sentiment-Oriented Word Vector from StockTwits] (https://www.aclweb.org/anthology/K17-1031/) (CoNLL 2017)
-- [Financial Sentiment Analysis: An Investigation into Common Mistakes and Silver Bullets] (https://www.aclweb.org/anthology/2020.coling-main.85/) (ICCL 2020)
+- [Learning Stock Market Sentiment Lexicon and Sentiment-Oriented Word Vector from StockTwits](https://www.aclweb.org/anthology/K17-1031/) (CoNLL 2017)
+- [Financial Sentiment Analysis: An Investigation into Common Mistakes and Silver Bullets](https://www.aclweb.org/anthology/2020.coling-main.85/) (ICCL 2020)
 
 ### Github  demos 
-- [list-stock-prediction](https://github.com/topics/stock-prediction?l=python)
-- [list-stock-price-prediction](https://github.com/topics/stock-price-prediction?o=desc&s=stars)
+- stock-prediction [list](https://github.com/topics/stock-prediction?l=python)
+- stock-price-prediction [list](https://github.com/topics/stock-price-prediction?o=desc&s=stars)
 - [StockSight](https://github.com/shirosaidev/stocksight) (1.1k star) - TextBlob, Vader
 - [BulBea](https://github.com/achillesrasquinha/bulbea) (1.4k star) - TextBlob
 - [stock market prediction webapp](https://github.com/kaushikjadhav01/Stock-Market-Prediction-Web-App-using-Machine-Learning-And-Sentiment-Analysis) - most recent
@@ -46,3 +46,5 @@ Research sources for NLP in Finance
 - FinRL: A Deep Reinforcement Learning Library for Quantitative Finance - [Paper](https://arxiv.org/pdf/2011.09607.pdf) | [Github](https://github.com/AI4Finance-LLC/FinRL-Library)
 - Microsoft (2017) - [blogpost](https://devblogs.microsoft.com/cse/2017/12/04/predicting-stock-performance-deep-learning/)
 - Google patent - [webpage](https://patents.google.com/patent/US20030135445A1/en) | [patent](https://patentimages.storage.googleapis.com/df/93/5d/4cc361daa8ee8c/US20030135445A1.pdf) 
+- Buzz ETF - [webpage](https://investwithbuzz.com/) BUZZ NextGen AI US Sentiment Leaders Index
+- MarketPsych Analytics from Refinitiv - [brochure](https://www.refinitiv.com/content/dam/marketing/en_us/documents/brochures/marketpsych-indices-brochure.pdf)
