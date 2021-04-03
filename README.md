@@ -8,7 +8,7 @@ Research sources for NLP in Finance
 - Multimodal : combination of time series and text analysis
 
 ### Papers (to be organised)
-- Stock Movement Prediction from Tweets and Historical Prices (ACL 2018) - [paper](https://www.aclweb.org/anthology/P18-1183.pdf) | [code](https://github.com/yumoxu/stocknet-code) (Python 2.7.11, Tensorflow 1.4.0) -  StockNet dataset (window 5)
+- [Stock Movement Prediction from Tweets and Historical Prices](https://www.aclweb.org/anthology/P18-1183.pdf){:target="_blank"} (ACL 2018)| [code](https://github.com/yumoxu/stocknet-code) (Python 2.7.11, Tensorflow 1.4.0) -  StockNet dataset (window 5)
 - [Stock Embeddings Acquired from News Articles and Price History, and an Application to Portfolio Optimization](https://www.aclweb.org/anthology/2020.acl-main.307.pdf) (ACL 2020) - No code (aligned with ACL 2018, predict market, window 5)
 - [DP-LSTM: Differential Privacy-inspired LSTM for Stock Prediction Using Financial News](https://arxiv.org/pdf/1912.10806.pdf) (NIPS 2019 Workshop AI in Financial Services) - [Code](https://github.com/AI4Finance-LLC/Financial-News-for-Stock-Prediction-using-DP-LSTM-NIPS-2019) (Python 3.6, Keras, Only using VADER -> able to upgrade, window size 10, the impact of text is very little)
 - [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://arxiv.org/pdf/1712.02136.pdf) (WSDM 2018) - No Code from authors (Good visualisation)
