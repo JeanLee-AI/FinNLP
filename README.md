@@ -18,7 +18,7 @@ Research sources for NLP in Finance
 - [Applications of deep learning in stock market prediction: recent progress](https://arxiv.org/pdf/2003.01859v1.pdf) - (2020) well summarized | [review](https://paperswithcode.com/paper/applications-of-deep-learning-in-stock-market/review/)
 
 #### Focus on social media text / sentiment analysis
-- [Twitter mood predicts the stock market](https://arxiv.org/pdf/1010.3003.pdf) (2010)
+- [Twitter mood predicts the stock market](https://arxiv.org/pdf/1010.3003.pdf) (Journal of Computational Science 2010)
 - [Buzzwords build momentum: Global financial Twitter sentiment and the aggregate stock market](https://www.sciencedirect.com/science/article/pii/S0957417419304270) (Expert Systems with Applications 2019)
 - [Beyond negative and positive: Exploring the effects of emotions in social media during the stock market crash](https://www.sciencedirect.com/science/article/abs/pii/S0306457319309057) (Information Processing and Management 2020)
 - [Issues and Perspectives from 10,000 Annotated Financial Social Media Data](https://www.aclweb.org/anthology/2020.lrec-1.749/) (LREC 2020) - Fin-Some (per request)
